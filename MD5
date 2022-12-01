@@ -1,0 +1,12 @@
+950122a1b77f11c308916851cc165321 *DESCRIPTION
+36ea5e1bc057a51f8ec07b415d99d870 *LICENSE
+bc4344fca8624df2ba4a4745c01ee070 *NAMESPACE
+3781a9e50a63321eacb20724260c4951 *NEWS.md
+7f51ce05ae8b2241822df92cb53e7708 *R/merge_selective_inference.R
+dbef85f3d5d1502e55d0f382f44f1ecd *R/multimod.R
+ff9bdcab1ac801af00e5d4f24ddaacab *R/selective_inference.R
+55756e20ea78a7db3ae1cd35d3b05c4a *R/utils.R
+43b933d6b58a3066be61ae31235354ae *README.md
+2d946f7e4f6248bc70b61a03c5a7ff8e *man/merge_selective_inference.Rd
+0e53797c19de448f4e6336e6629332e5 *man/test_multimod.Rd
+1648fc1f961bbcb2045ef0223f1b32ed *man/test_selective_inference.Rd
